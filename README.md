@@ -7,6 +7,8 @@
 - [信阳师范大学](https://act.imxbt.cn)
 - [曲阜师范大学](https://act.w1ndys.top)（[开源地址](https://github.com/W1ndys/ZhiYuanChaXun)）
 
+`data_generate`中包含数据生成脚本，可快速转换数据
+
 加入时请通过Pull Request上传对应源码，并更新README.md，需要标注`已加入School Robot V2计划`
 
 二次开发请保留版权信息并标注`已加入School Robot V2计划`
