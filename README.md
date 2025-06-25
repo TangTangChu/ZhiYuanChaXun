@@ -6,6 +6,7 @@
 - [大理大学](https://act.mcsog.top/info.php)
 - [信阳师范大学](https://act.imxbt.cn)
 - [曲阜师范大学](https://act.w1ndys.top)（[开源地址](https://github.com/W1ndys/ZhiYuanChaXun)）
+- 江西财经大学
 
 `data_generate`中包含数据生成脚本，可快速转换数据
 
